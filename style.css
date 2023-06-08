@@ -1,0 +1,48 @@
+body {
+    margin: 0 auto;
+    font-family: Helvetica;
+}
+
+header {
+    background: url(images/pattern.webp);
+    text-align: center;
+    font-size: 50px;
+    color: khaki;
+    position: sticky;
+    top: 0px;
+    margin-top: 0px;
+}
+
+figcaption {
+    font-weight: bold;
+}
+
+#container {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+section h3 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.nacksaw_brushes h3 {
+    background-color: mediumaquamarine;
+    color: white;
+}
+
+.art_frames h3 {
+    background-color: lightcoral;
+    color: white;
+}
+
+.clean_finish h3 {
+    background-color: skyblue;
+    color: white;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
